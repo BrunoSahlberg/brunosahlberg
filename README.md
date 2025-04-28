@@ -2,7 +2,7 @@
 
 ### 📜 Computer scientist, currently working as a back-end software developer.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=brunosahlberg&show_icons=true&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=brunosahlberg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&custom_title=My+GitHub+Stats)
 
 ## ⚙️ Technologies
 
